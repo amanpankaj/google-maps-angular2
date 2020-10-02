@@ -1,4 +1,4 @@
-# google-maps-angular2
+# google-maps-angular2 angular view
 Google Maps Api for Angular2
 
 The library provides access to the google maps api.
